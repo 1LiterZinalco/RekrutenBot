@@ -1,0 +1,8 @@
+*.conf
+.env
+*.json
+last.txt
+*.log
+*unfailer*.*
+*fixer*.*
+*pycache*
